@@ -1,0 +1,3 @@
+pyinstaller --onefile --icon=icons/main.ico --noconsole TradingView.py
+pyinstaller --icon=icons/main.ico --noconsole TradingView.py
+pyinstaller --icon=icons/main.ico TradingView.py
